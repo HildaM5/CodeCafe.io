@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+  		<meta name="viewport" content="width=device-width, initial-scale=1">
+ 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+ 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+ 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="CodeCafe.css">
+		<title>CodeCafe</title>
+
+        
+
+		<!--Navigation Bar-->
+		<div align="left">
+			<div class="row">
+				<div class="span12 left-pills ">
+				<ul class="nav nav-pills">
+				<li class="active"><a href="file:///Users/ada/Documents/CodeCafe/codeCafeHomePage.html">Home</a></li>
+				<li><a href="file:///Users/ada/Documents/CodeCafe/CodeCafeUploadYourCode.html">Upload your Code</a></li>
+				<li><a href="file:///Users/ada/Downloads/CodeCafeCommunity.html">Code Cafe Community</a></li>
+				</ul>
+			</div>
+		</div>
+		</div>
+
+
+
+
+<!--Non stop Gallery-->
+    	<div class="photobanner">
+	        <img class="first" src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/ZombieCoffee.png" height="150" width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/robot.cofffee.jpg"  height="150" width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/CoffeeBattery.png"  height="150" width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/DrinkMe.png" height="150" width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/ZombieCoffee.png" height="150" width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/coffeeLove2.jpg"      height="150" width="130">
+
+
+
+
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/ComputersCoffee.png" height="150" width="130">
+	        <img src= "file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/CoffeeWork.png" height="150" width="130">
+
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/DrinkCoffee.png"  height="150"width="130">
+	        <img src="file:///Users/ada/Documents/CodeCafe/CodeCafe%20Gallery/CoffeeHands.png" height="150" width="130">
+    	</div>
+
+
+
+</head>
+<body>
+		       <div class="welcome">
+					<h1>Welcome!</h1>
+					<h2>We know how hard is to get answers to our questions when we are beginning to code! That's why we created CodeCafe. This is the place where to look for answers and drink coffee.</h2>
+					<h3>And who Doesn't love Coffee?</h3>
+					<h4>-Katia Villevald and Hilda Mendoza</h4>
+				</div>	  
+          </div>
+     </div>
+
+
+	</body>
+</html>
